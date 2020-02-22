@@ -1,0 +1,28 @@
+title: Sentient Spud
+
+author:
+  name: Hasan Ibraheem
+  email_msg: contact
+  email_url: /about/
+
+description: >
+  I like programming and computers. I blog about things I find interesting.
+
+show_excerpts: false
+
+minima:
+  skin: "dark"
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    github: JuanPotato
+    rss: rss
+
+header_pages:
+ - about.md
+
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
