@@ -8,4 +8,4 @@ My name is Hasan Ibraheem, I like computers, electronics, Rust, and Python. I ma
 
 ## Contact
 
-My email is my first name lowercased at this domain.
+Check my [github](https://github.com/JuanPotato) for my email.

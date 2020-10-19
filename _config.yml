@@ -21,7 +21,7 @@ minima:
 header_pages:
  - about.md
 
-theme: minima
+# theme: minima
 
 plugins:
  - jekyll-feed
