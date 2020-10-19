@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weird Subtitles"
-date:   2020-10-10
+date:   2020-10-19
 ---
 
 My friend sent a picture to our group chat complaining about the subtitles on his video.
