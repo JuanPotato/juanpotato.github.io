@@ -22,5 +22,4 @@ I have no idea what could have caused this replacement. There are plenty of word
 
 The offset between the character for `m` and `U+6A93` was `0x6a26`, same for `l` and its replacement. The offset for `s` was `0x6a27` which just confused me even more.
 
-If anyone wants to take a look at the rest of the subtitles to see what they can find, you can find them [here](https://pastebin.com/raw/GQh3168K). Email me or post in the hacker news thread if you find anything!
-
+If anyone wants to take a look at the rest of the subtitles to see what they can find, you can find them [here](https://pastebin.com/raw/GQh3168K). Email me or post in the [hacker news thread](https://news.ycombinator.com/item?id=24826807) if you find anything!
