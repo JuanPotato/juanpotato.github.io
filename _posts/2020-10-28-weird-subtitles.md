@@ -4,7 +4,7 @@ title:  "Weird Subtitles"
 date:   2020-10-19
 ---
 
-Update: [It was text encoding and maybe OCR]({% post_url 2021-03-21-its-always-text-encodings %})
+Update: [It was character encodings and OCR]({% post_url 2021-03-22-its-always-character-encodings %})
 
 My friend sent a picture to our group chat complaining about the subtitles on his video.
 
